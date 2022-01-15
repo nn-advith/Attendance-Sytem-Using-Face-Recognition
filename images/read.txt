@@ -1,0 +1,3 @@
+Store refernce images in ./images/
+
+delete this txt file 
